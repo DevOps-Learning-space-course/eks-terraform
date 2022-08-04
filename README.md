@@ -31,7 +31,7 @@ aws iam list-groups
 - Open a terminal and run the following:
 
 ```bash
-cd aws/eks # if you haven't done so already
+
 # Initializes the directory
 terraform init
 # Sets up the EKS cluster
