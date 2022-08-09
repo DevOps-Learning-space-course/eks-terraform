@@ -12,6 +12,8 @@
 #### AWS CLI Cheat Sheet
 
 ```bash
+#configure
+aws configure
 # Obtain account
 aws sts get-caller-identity
 # Obtain username and userarn
